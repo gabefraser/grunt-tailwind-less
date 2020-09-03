@@ -22,4 +22,5 @@ Please refer to the [Tailwind CSS Documentation](https://tailwindcss.com/docs/) 
 ## Credits
 
 [Tailwind CSS](https://tailwindcss.com) for creating a mobile-first/utility framework. 
+
 [TailwindToolbox.com - Minimal Blog](https://www.tailwindtoolbox.com/templates/minimal-blog) for the default `index.html` demonstrating the starter project.
