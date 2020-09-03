@@ -1,6 +1,6 @@
-# Tailwind CSS with LESS & Grunt
+# Grunt with Tailwind CSS & LESS.
 
-This is a super simple starter project if you're looking to use Grunt with Tailwind CSS & LESS.
+This is a super simple starter project if you're looking to use Grunt with Tailwind CSS & LESS (the wombo combo).
 
 ## Get started
 
@@ -15,7 +15,7 @@ To compile the code (on the fly):
 
 ## How to use
 
-Create your `.less` files inside `stylesheets/less/` and `@import "<path/to/file>";` to the `styles.less`.
+Create your `.less` files inside `stylesheets/less/` and add `@import "path/to/file.less";` to the end of `styles.less`.
 
 Please refer to the [Tailwind CSS Documentation](https://tailwindcss.com/docs/) for anything Tailwind CSS related.
 
