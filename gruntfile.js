@@ -40,7 +40,6 @@ module.exports = function (grunt){
 
     // Load Tasks
     grunt.loadNpmTasks('grunt-postcss');
-    grunt.loadNpmTasks('grunt-cssnano');
 
     // Registering tasks
     grunt.registerTask('default', ['less', 'postcss']);
