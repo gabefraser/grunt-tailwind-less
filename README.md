@@ -5,13 +5,19 @@ This is a super simple starter project if you're looking to use Grunt with Tailw
 ## Get started
 
 To install all the required packages:
-`npm install`
+```
+npm install
+```
 
 To compile the code (one-time):
-`grunt`
+```
+grunt
+```
 
 To compile the code (on the fly):
-`grunt watch`
+```
+grunt watch
+```
 
 ## How to use
 
